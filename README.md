@@ -2,9 +2,12 @@
 
 * **Terminal:** [Alacritty]
 * **Terminal font:** [Hack]
+* **Terminal color scheme:** [OupnKalr] ([Open color])
 
 [Alacritty]: https://github.com/alacritty/alacritty
 [Hack]: https://github.com/source-foundry/hack
+[Open color]: https://github.com/yeun/open-color
+[Oupnkalr]: https://github.com/oupnkalr/alacritty
 
 **Why** I use:
 
@@ -72,7 +75,7 @@
   
     I want a large x-height font with the fixed meanline for letters `f`, `t` and `x`. Thus neither smaller nor mixed ones like [Agave], [Code New Roman], [DaddyTimeMono], [Fira Mono] ([Fira Code]) or [Hermit].
 
-[Nerd font]: https://www.nerdfonts.com/
+[Nerd font]: https://www.nerdfonts.com
 
 [Agave]: https://www.programmingfonts.org/#agave
 [Anonymous Pro]: https://www.programmingfonts.org/#anonymous-pro
@@ -113,4 +116,27 @@
 [Ubuntu Mono]: https://www.programmingfonts.org/#ubuntu
 [Victor Mono]: https://www.programmingfonts.org/#victor-mono
 [iA Writer Mono]: https://www.programmingfonts.org/#ia-writer-mono
+</details>
+
+<details>
+  <summary>Open color</summary>
+
+  * **color derivatives**
+
+    I want a general color scheme with shades and tints. Thus neither absent nor deficient ones like [Fluent UI] or [Semantic UI].
+
+  * **color harmony**
+
+    I want a harmonious color scheme. Thus no discordant ones like [Material Design] or [Tailwind CSS].
+
+  * **color wheel**
+
+    I want a basic color scheme with 12 main colors from the RGB color wheel (plus gray). Thus no lacking ones like [Ant Design] or [Bootstrap].
+
+[Ant Design]: https://ant.design/docs/spec/colors
+[Bootstrap]: https://getbootstrap.com/docs/5.3/customize/color
+[Fluent UI]: https://developer.microsoft.com/en-us/fluentui#/styles/web/colors/theme-slots
+[Material Design]: https://m2.material.io/design/color/the-color-system.html
+[Semantic UI]: https://semantic-ui.com/usage/theming.html
+[Tailwind CSS]: https://tailwindcss.com/docs/customizing-colors
 </details>
